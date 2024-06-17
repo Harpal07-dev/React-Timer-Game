@@ -2,6 +2,6 @@
 Made with HTML, CSS, ReactJS.
 
 # Installation
-Download zip file.
-npm install
-npm run dev
+Download zip file. <br/>
+npm install. <br/>
+npm run dev. <br/>
